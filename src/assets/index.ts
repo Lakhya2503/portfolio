@@ -1,0 +1,2 @@
+export const avatarImage : string = "https://res.cloudinary.com/qnf2f4fq/image/upload/v1785390133/ChatGPTImageJul14202608_54_02A_ulbqbb.jpg"
+export const resume : string = "https://res.cloudinary.com/qnf2f4fq/image/upload/v1785392197/MERN_Stack_Backend_Developer_funlaz.pdf"
