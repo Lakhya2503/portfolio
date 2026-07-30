@@ -8,9 +8,9 @@ import Footer from './Components/ui/Footer'
 
 const App: React.FC = () => {
   return (
-      <div className="min-h-screen flex flex-col bg-gradient-to-br from-indigo-500 via-purple-500 to-pink-500">
+      <div className="min-h-screen flex flex-col bg-gradient-to-br from-indigo-500 via-purple-500 to-pink-500 gap-2">
         <Navbar />
-        <main className="flex-1 container mx-auto px-4 py-8 max-w-7xl">
+        <main className="flex-1 container mx-auto px-4 py-10 max-w-7xl">
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/about" element={<About />} />
