@@ -6,7 +6,7 @@ import {
   FaPhone,
   FaDownload,
 } from "react-icons/fa";
-import { MdWork, MdSchool, MdCode, MdStar, MdTrendingUp } from "react-icons/md";
+import { MdWork, MdSchool, MdCode, MdStar } from "react-icons/md";
 import { BiAward, BiRocket } from "react-icons/bi";
 import data from "../assets/portfolioData";
 import { avatarImage, resume } from "../assets";

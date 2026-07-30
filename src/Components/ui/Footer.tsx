@@ -1,6 +1,6 @@
 import React from 'react'
-import { FaGithub, FaLinkedin, FaEnvelope, FaTwitter, FaYoutube, FaDev, FaHeart, FaRocket } from 'react-icons/fa'
-import { MdCode, MdSchool, MdWork } from 'react-icons/md'
+import { FaGithub, FaLinkedin, FaEnvelope, FaTwitter, FaYoutube, FaHeart } from 'react-icons/fa'
+import { MdCode, MdWork } from 'react-icons/md'
 import { HiOutlineSparkles } from 'react-icons/hi'
 import { BiRocket } from 'react-icons/bi'
 import data from '../../assets/portfolioData.ts'

@@ -1,5 +1,5 @@
 import React from 'react'
-import { FaGithub, FaLinkedin, FaEnvelope, FaPhone, FaMapMarkerAlt, FaRocket, FaUser, FaBriefcase } from 'react-icons/fa'
+import { FaGithub, FaLinkedin, FaEnvelope, FaMapMarkerAlt, FaRocket, FaUser, FaBriefcase } from 'react-icons/fa'
 import { MdEmail, MdPhone, MdLocationOn, MdStar } from 'react-icons/md'
 import { HiOutlineSparkles } from 'react-icons/hi'
 import data from '../assets/portfolioData'
