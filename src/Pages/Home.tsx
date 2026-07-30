@@ -1,7 +1,7 @@
 import React from 'react'
 import { FaGithub, FaLinkedin, FaEnvelope, FaPhone, FaDownload } from 'react-icons/fa'
 import { MdWork, MdSchool, MdCode } from 'react-icons/md'
-import data from '../data/portfolioData'
+import data from '../assets/portfolioData'
 
 const Home: React.FC = () => {
   const { personalInformation, professionalSummary, experience, education, technicalSkills, projects } = data

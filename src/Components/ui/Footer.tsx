@@ -1,6 +1,6 @@
 import React from 'react'
 import { FaGithub, FaLinkedin, FaEnvelope } from 'react-icons/fa'
-import data from '../../assets/portfolioData'
+import data from '../../assets/portfolioData.ts'
 
 const Footer: React.FC = () => {
   const { personalInformation } = data
