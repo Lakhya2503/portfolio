@@ -4,8 +4,8 @@ const data = {
     title: "MERN Stack Developer",
     email: "25032002shindelaxman@gmail.com",
     phone: "+91 9579731172",
-    github: "github.com/Lakhya2503",
-    linkedin: "linkedin.com/in/laxman-shinde-a968b2253"
+    github: "https://github.com/Lakhya2503",
+    linkedin: "https://linkedin.com/in/laxman-shinde-a968b2253"
   },
   professionalSummary: "MERN Stack Developer with hands-on experience building scalable web applications using React, Node.js, Express.js, MongoDB, PostgreSQL, Redis, Docker, and TypeScript. Strong understanding of REST APIs, authentication, WebSockets, Git, and modern software development practices.",
   education: {
@@ -65,6 +65,6 @@ const data = {
     "Offer Letter from Athenura",
     "Built multiple production-level MERN applications"
   ]
-}
+};
 
-export default data
+export default data;
